@@ -1,0 +1,45 @@
+li {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: rgb(38, 63, 88);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: cadetblue;
+}
+
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color: cadetblue;
+}
+body {
+    background-color: rgb(250, 236, 219);
+}
+
+.leftmenu {
+    top: 130px;
+    left: 5px;
+    width: 100px;
+    bottom: 5px;
+}
+
+a {color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.mainbody {
+    top: 130px;
+    left: 100px;
+    bottom: 5px;
+    z-index: 1;
+    color: rgb(38, 63, 88) ;
+}
+
